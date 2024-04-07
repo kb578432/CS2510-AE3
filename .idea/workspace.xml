@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="666bbecc-a229-4261-a428-9e0b57cf6258" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cJWWCE89vMsYUxBzkusRYq0FOs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App (1).executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.CreateTestImages.executor": "Run",
+    "Application.FullScreenFrameWithImageExample.executor": "Run",
+    "Application.Image.executor": "Run",
+    "Application.ImageEditor.executor": "Run",
+    "Application.ImagePanel.executor": "Run",
+    "Application.Images.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestImages.executor": "Run",
+    "JUnit.ImageEditorTest.deleteHighlightedColumn (1).executor": "Run",
+    "JUnit.ImageEditorTest.deleteHighlightedColumn.executor": "Run",
+    "JUnit.ImageEditorTest.executor": "Run",
+    "JUnit.ImageEditorTest.getBluestColumnIndex.executor": "Run",
+    "JUnit.ImageEditorTest.getHighlightedColumnIndex.executor": "Run",
+    "JUnit.ImageEditorTest.getImage.executor": "Run",
+    "JUnit.ImageEditorTest.highlightBluestColumn.executor": "Run",
+    "JUnit.ImageEditorTest.highlightColumn.executor": "Run",
+    "JUnit.ImageEditorTest.isImageHighlighted.executor": "Run",
+    "JUnit.ImageEditorTest.undo.executor": "Run",
+    "JUnit.ImageTest.addColumn.executor": "Run",
+    "JUnit.ImageTest.addRow.executor": "Run",
+    "JUnit.ImageTest.columnsToBufferedImage.executor": "Run",
+    "JUnit.ImageTest.executor": "Run",
+    "JUnit.ImageTest.fromColumns.executor": "Run",
+    "JUnit.ImageTest.fromRows.executor": "Run",
+    "JUnit.ImageTest.getBluestColumnIndex.executor": "Run",
+    "JUnit.ImageTest.getBufferedImage.executor": "Run",
+    "JUnit.ImageTest.getColorAt.executor": "Run",
+    "JUnit.ImageTest.getColorColumn (1).executor": "Run",
+    "JUnit.ImageTest.getColorColumn (2).executor": "Run",
+    "JUnit.ImageTest.getColorColumn (3).executor": "Run",
+    "JUnit.ImageTest.getColorColumn.executor": "Run",
+    "JUnit.ImageTest.getColorRow (1).executor": "Run",
+    "JUnit.ImageTest.getColorRow.executor": "Run",
+    "JUnit.ImageTest.getColumn.executor": "Run",
+    "JUnit.ImageTest.getColumns.executor": "Run",
+    "JUnit.ImageTest.getHeight.executor": "Run",
+    "JUnit.ImageTest.getRow.executor": "Run",
+    "JUnit.ImageTest.getRows.executor": "Run",
+    "JUnit.ImageTest.getWidth.executor": "Run",
+    "JUnit.ImageTest.highlightBluestColumn.executor": "Run",
+    "JUnit.ImageTest.highlightColumn.executor": "Run",
+    "JUnit.ImageTest.removeColumn.executor": "Run",
+    "JUnit.ImageTest.removeRow.executor": "Run",
+    "JUnit.ImageTest.rowsToBufferedImage.executor": "Run",
+    "JUnit.ImageTest.setColorAt.executor": "Run",
+    "JUnit.ImageTest.testToString.executor": "Run",
+    "JUnit.ListUtilitiesTest.executor": "Run",
+    "JUnit.ListUtilitiesTest.find.executor": "Run",
+    "JUnit.ListUtilitiesTest.flatten.executor": "Run",
+    "JUnit.ListUtilitiesTest.initializeList.executor": "Run",
+    "JUnit.ListUtilitiesTest.map2D.executor": "Run",
+    "JUnit.ListUtilitiesTest.sum.executor": "Run",
+    "JUnit.ListUtilitiesTest.transpose.executor": "Run",
+    "JUnit.MathUtilitiesTest.euclidianDistance.executor": "Run",
+    "JUnit.TestListUtilities.transpose.executor": "Run",
+    "JUnit.UtilityTest.executor": "Run",
+    "JUnit.UtilityTest.initializeList.executor": "Run",
+    "JUnit.UtilityTest.map.executor": "Run",
+    "JUnit.UtilityTest.map2D.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/KSB/CS2510/project2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uk.ac.nulondon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KSB\CS2510\project1\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="uk.ac.nulondon.DiskWriter" />
+      <recent name="uk.ac.nulondon.ImageEditor" />
+      <recent name="uk.ac.nulondon.TestImageSupplier" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KSB\CS2510\project1\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="uk.ac.nulondon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.ac.nulondon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Images">
+    <configuration name="Images" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.nulondon.Images" />
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.nulondon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.nulondon.Main" />
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.nulondon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCollectionUtilities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.nulondon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.nulondon" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.nulondon.TestCollectionUtilities" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCollectionUtilities.transpose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.nulondon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.nulondon" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.nulondon.TestCollectionUtilities" />
+      <option name="METHOD_NAME" value="transpose(java.util.List,java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.nulondon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.nulondon" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.nulondon.TestImage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCollectionUtilities.transpose" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Images" />
+        <item itemvalue="JUnit.TestImage" />
+        <item itemvalue="JUnit.TestCollectionUtilities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-temurin-21.0.1-f644763e9732-a3c558b9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="666bbecc-a229-4261-a428-9e0b57cf6258" name="Changes" comment="" />
+      <created>1707830190562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707830190562</updated>
+      <workItem from="1707830191806" duration="5486000" />
+      <workItem from="1708018013984" duration="39598000" />
+      <workItem from="1708310424767" duration="692000" />
+      <workItem from="1708427830873" duration="571000" />
+      <workItem from="1708431376764" duration="16447000" />
+      <workItem from="1708607907161" duration="4227000" />
+      <workItem from="1708700761083" duration="33965000" />
+      <workItem from="1708956568497" duration="7046000" />
+      <workItem from="1709373177303" duration="46000" />
+      <workItem from="1710525082797" duration="30000" />
+      <workItem from="1710942062787" duration="13767000" />
+      <workItem from="1712526370411" duration="2323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
